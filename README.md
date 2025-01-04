@@ -18,10 +18,10 @@ A React Native mobile game where players compete against the computer in a numbe
 ## **Screenshots**
 
 ### Game Screen
-![Game Screen](screenshots/game-screen.png)
+![Game Screen](screenshots/game-screen.jpg)
 
 ### Victory Screen
-![Victory Screen](screenshots/victory-screen.png)
+![Victory Screen](screenshots/victory-screen.jpg)
 
 ---
 
